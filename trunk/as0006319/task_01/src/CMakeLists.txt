@@ -1,4 +1,5 @@
-cmake_minimum_required(VERSION 3.12)
-project(Task01)
+cmake_minimum_required(VERSION 3.27)
 
-add_executable(Task01_6321 main.cpp)
+project(lab1Savko)
+
+add_executable(lab1Savko main.cpp)
